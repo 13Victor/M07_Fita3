@@ -1,0 +1,4 @@
+Pere,Torres,Puig,676543210
+Maria,Martí,Ferrer,612345678
+Jordi,Soler,Pons,698765432
+Anna,Vila,Miró,634567890
